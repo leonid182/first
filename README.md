@@ -1,2 +1,2 @@
 # rsschool
-my first
+my super cv
